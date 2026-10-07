@@ -1,0 +1,16 @@
+[keafile]
+
+_START_
+
+name: "meta.kea",
+website_name: "Signabroam Archive Directory",
+website_url: "https://og.signabroam.ovh",
+website_description: "Signabroam Archive Directory is a comprehensive archive of Signabroam content, providing users with access to a wide range of media and information related to the Signabroam community.",
+
+path: [
+    "2024 First version": "/2024 v1/",
+    "2024 Second version": "/2024 v2/",
+    "2025": "/2025/"
+]
+
+_END_
